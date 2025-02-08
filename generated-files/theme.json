@@ -3,6 +3,11 @@
     "color": {
       "palette": [
         {
+          "slug": "white",
+          "color": "#ffffff",
+          "name": "white"
+        },
+        {
           "slug": "cascading-white",
           "color": "#faf6f6",
           "name": "cascading-white"
@@ -16,6 +21,11 @@
           "slug": "radiant-raspberry",
           "color": "#e41c60",
           "name": "radiant-raspberry"
+        },
+        {
+          "slug": "black",
+          "color": "#000000",
+          "name": "black"
         },
         {
           "slug": "carbon-fiber",

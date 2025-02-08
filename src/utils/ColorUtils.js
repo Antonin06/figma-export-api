@@ -11,7 +11,8 @@ export function rgbToHex({ r, g, b }) {
 }
 
 export function isColorRelevant(hex) {
-    const irrelevantColors = ['#000000', '#ffffff'];
+    // Can be ['#000000', '#ffffff'] or ['black', 'white']
+    const irrelevantColors = [];
     return !irrelevantColors.includes(hex);
 }
 
