@@ -1,0 +1,133 @@
+{
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "cascading-white",
+          "color": "#faf6f6",
+          "name": "cascading-white"
+        },
+        {
+          "slug": "cocos-black",
+          "color": "#1d1d1b",
+          "name": "cocos-black"
+        },
+        {
+          "slug": "radiant-raspberry",
+          "color": "#e41c60",
+          "name": "radiant-raspberry"
+        },
+        {
+          "slug": "carbon-fiber",
+          "color": "#2f2c2c",
+          "name": "carbon-fiber"
+        },
+        {
+          "slug": "sensitive-scorpion",
+          "color": "#ca2263",
+          "name": "sensitive-scorpion"
+        },
+        {
+          "slug": "pictorial-carmine",
+          "color": "#bb0a4d",
+          "name": "pictorial-carmine"
+        },
+        {
+          "slug": "radiant-raspberry",
+          "color": "#e41b5f",
+          "name": "radiant-raspberry"
+        },
+        {
+          "slug": "white-edgar",
+          "color": "#eeeded",
+          "name": "white-edgar"
+        },
+        {
+          "slug": "sea-salt-sherbet",
+          "color": "#fdf6f6",
+          "name": "sea-salt-sherbet"
+        },
+        {
+          "slug": "red-rhapsody",
+          "color": "#ca1a1a",
+          "name": "red-rhapsody"
+        },
+        {
+          "slug": "orochimaru",
+          "color": "#d9d9d9",
+          "name": "orochimaru"
+        },
+        {
+          "slug": "jet",
+          "color": "#353533",
+          "name": "jet"
+        },
+        {
+          "slug": "pot-black",
+          "color": "#161615",
+          "name": "pot-black"
+        },
+        {
+          "slug": "coconut-agony",
+          "color": "#ebe7e9",
+          "name": "coconut-agony"
+        },
+        {
+          "slug": "black-knight",
+          "color": "#020818",
+          "name": "black-knight"
+        },
+        {
+          "slug": "peach-petals",
+          "color": "#d4b799",
+          "name": "peach-petals"
+        },
+        {
+          "slug": "bitter-liquorice",
+          "color": "#272726",
+          "name": "bitter-liquorice"
+        },
+        {
+          "slug": "radiant-raspberry",
+          "color": "#e61c60",
+          "name": "radiant-raspberry"
+        },
+        {
+          "slug": "rose-madder",
+          "color": "#e23237",
+          "name": "rose-madder"
+        },
+        {
+          "slug": "red-contrast",
+          "color": "#b52e31",
+          "name": "red-contrast"
+        },
+        {
+          "slug": "athena-blue",
+          "color": "#61dafb",
+          "name": "athena-blue"
+        },
+        {
+          "slug": "red-card",
+          "color": "#ff2d20",
+          "name": "red-card"
+        },
+        {
+          "slug": "scoville-high",
+          "color": "#e34f26",
+          "name": "scoville-high"
+        },
+        {
+          "slug": "durotar-fire",
+          "color": "#ef652a",
+          "name": "durotar-fire"
+        },
+        {
+          "slug": "eerie-black",
+          "color": "#1b1b1b",
+          "name": "eerie-black"
+        }
+      ]
+    }
+  }
+}
